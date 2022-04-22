@@ -2,6 +2,11 @@ npm install
 
 npm run dev
 
+database:
+
+![image](https://user-images.githubusercontent.com/15162590/164605464-dfabde6f-2309-4fb3-a647-892cbe50ddf1.png)
+
+
 examples:
 
 
